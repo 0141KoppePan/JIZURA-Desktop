@@ -71,6 +71,10 @@ def copy_upstream() -> None:
 
 
 def apply_patches() -> None:
+    # git apply inside a subdirectory of the parent repository can silently
+    # skip patch paths outside that prefix. Give the disposable copy its own
+    # repository so paths are resolved against WORK, never the source checkout.
+    run("git", "init", "--quiet", cwd=WORK)
     series = PATCH_DIRECTORY / "series"
     patch_names = [
         line.strip()

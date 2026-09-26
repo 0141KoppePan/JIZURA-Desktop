@@ -5,6 +5,12 @@ JIZURA を Wails でデスクトップアプリとして動かすプロジェク
 Windows x64向けの初期実装があります。固定した原作、全7言語画面、全40フォントを単一exeへ同梱し、ZIP配布物を生成できます。一部のネイティブ操作と別環境確認は引き続き検証中です。
 Windows 11 / WebView2での音声付きMP4、PNG ZIP、プロジェクトJSON、再起動復元の自動実機検証があります。
 
+## 関連リンク
+
+- [JIZURA GitHubリポジトリ](https://github.com/852wa/JIZURA)
+- [Wails GitHubリポジトリ](https://github.com/wailsapp/wails)
+- [Wails公式サイト](https://wails.io/)
+
 ## 検証状況
 
 次の項目は未確認です。

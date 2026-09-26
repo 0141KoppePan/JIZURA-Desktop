@@ -1,0 +1,12 @@
+diff --git a/build.py b/build.py
+--- a/build.py
++++ b/build.py
+@@ -48,8 +48,6 @@ html = f'''<!doctype html>
+ <meta property="og:description" content="{description}">
+ <meta property="og:url" content="{canonical}">
+ <meta name="twitter:card" content="summary">
+-<link rel="preconnect" href="https://fonts.googleapis.com">
+-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <style>
+ {read('app/style.css')}
+ </style>

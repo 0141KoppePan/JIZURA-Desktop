@@ -1,0 +1,57 @@
+# mise caches local tool downloads outside the repository. Keep only its
+# reproducibility files under version control.
+
+# Local design notes and human/AI handoff material (not published)
+/docs/
+/.codex/
+/.agents/
+/.claude/
+AGENTS.md
+AGENTS.override.md
+CLAUDE.md
+GEMINI.md
+
+# Wails / Go build outputs
+bin/
+build/
+dist/
+/*.exe
+/*.test
+/coverage/
+/coverage.out
+*.prof
+
+# Frontend dependencies and generated output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+!frontend/dist/
+frontend/dist/*
+!frontend/dist/.gitkeep
+
+# Downloaded upstream artifacts and font cache
+.cache/
+*.part
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+/mise.local.toml
+/mise.*.local.toml
+/.mise.local.toml
+/.mise.*.local.toml
+.idea/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db

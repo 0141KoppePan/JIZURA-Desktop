@@ -1,0 +1,55 @@
+min_version = "2026.9.14"
+
+[tools]
+go = "1.26.5"
+python = "3.14.7"
+node = "24.21.0"
+"go:github.com/wailsapp/wails/v3/cmd/wails3" = "v3.0.0-beta.26"
+
+[env]
+GOTOOLCHAIN = "local"
+PYTHONUTF8 = "1"
+
+[tasks.versions]
+description = "Show the pinned development tool versions"
+run = "mise ls --current"
+
+[tasks.doctor]
+description = "Check whether this machine can build and run Wails applications"
+run = "wails3 doctor"
+
+[tasks.prepare]
+description = "Build the pinned JIZURA web assets from a patched work copy"
+run = "wails3 task prepare"
+
+[tasks.prepare-offline]
+description = "Build web assets using only verified local caches"
+run = "wails3 task prepare:offline"
+
+[tasks.fonts]
+description = "Download and verify fonts locked in the manifest"
+run = "wails3 task fonts"
+
+[tasks.dev]
+description = "Prepare and run JIZURA Desktop in development mode"
+run = "wails3 task dev"
+
+[tasks.build]
+description = "Build the Windows amd64 executable"
+run = "wails3 task build"
+
+[tasks.package]
+description = "Build the Windows amd64 ZIP distribution"
+run = "wails3 task package"
+
+[tasks.check]
+description = "Run source, asset, and reproducibility checks"
+run = "wails3 task check"
+
+[tasks.probe]
+description = "Probe the built app in WebView2"
+run = "wails3 task probe"
+
+[tasks.probe-ui]
+description = "Probe real UI file saves and persistence in WebView2"
+run = "wails3 task probe:ui"

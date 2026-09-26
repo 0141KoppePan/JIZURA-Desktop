@@ -1,0 +1,76 @@
+version: '3'
+
+vars:
+  APP_NAME: JIZURA-Desktop
+  BIN_DIR: dist
+
+tasks:
+  fonts:
+    summary: Download and verify the locked font cache
+    cmds:
+      - mise exec -- python tools/fetch_fonts.py
+
+  prepare:
+    summary: Build web assets from the pinned and patched JIZURA source
+    cmds:
+      - mise exec -- python tools/prepare.py
+
+  prepare:offline:
+    summary: Build web assets without allowing network access
+    cmds:
+      - mise exec -- python tools/prepare.py
+    env:
+      JIZURA_OFFLINE: '1'
+
+  dev:
+    summary: Prepare and run the desktop application
+    deps: [prepare]
+    cmds:
+      - mise exec -- go run .
+
+  verify:web:
+    summary: Verify generated pages, licenses, font hashes, and font references
+    deps: [prepare]
+    cmds:
+      - mise exec -- python tools/check_web.py frontend/dist
+
+  build:
+    summary: Build the Windows amd64 application
+    deps: [verify:web]
+    cmds:
+      - mise exec -- go mod tidy
+      - mise exec -- go build -tags production -trimpath -buildvcs=false -ldflags="-w -s -H windowsgui" -o "{{.BIN_DIR}}/{{.APP_NAME}}.exe" .
+    env:
+      GOOS: windows
+      GOARCH: amd64
+      CGO_ENABLED: '0'
+
+  package:
+    summary: Build and package the Windows amd64 ZIP distribution
+    deps: [build]
+    cmds:
+      - mise exec -- python tools/package.py
+
+  check:
+    summary: Verify the source, generated web assets, and Go application
+    deps: [verify:web]
+    cmds:
+      - mise exec -- python tools/check_gofmt.py
+      - mise exec -- go test ./...
+      - mise exec -- go test -tags production ./...
+      - mise exec -- python -m unittest discover -s tools/tests -v
+      - mise exec -- python -m compileall -q tools
+      - mise exec -- node --check tools/runtime_probe.mjs
+      - mise exec -- node --check tools/ui_file_probe.mjs
+
+  probe:
+    summary: Probe WebView2 APIs, font loading, and font network isolation
+    deps: [build]
+    cmds:
+      - mise exec -- node tools/runtime_probe.mjs dist/JIZURA-Desktop.exe
+
+  probe:ui:
+    summary: Exercise real UI downloads and production-profile persistence
+    deps: [build]
+    cmds:
+      - mise exec -- node tools/ui_file_probe.mjs dist/JIZURA-Desktop.exe

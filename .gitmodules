@@ -1,0 +1,3 @@
+[submodule "upstream/JIZURA"]
+	path = upstream/JIZURA
+	url = https://github.com/852wa/JIZURA.git

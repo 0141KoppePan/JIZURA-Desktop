@@ -1,0 +1,1403 @@
+{
+  "schema_version": 1,
+  "source": "https://github.com/google/fonts",
+  "source_commit": "23e54b51ddffbc7713c583748e3bd86f62b1fa4a",
+  "families": [
+    {
+      "name": "Noto Sans JP",
+      "slug": "notosansjp",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notosansjp/NotoSansJP-Variable.ttf",
+          "style": "normal",
+          "weight": "100 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notosansjp/NotoSansJP[wght].ttf",
+          "output_path": "assets/fonts/files/notosansjp/NotoSansJP-Variable.ttf",
+          "size": 9589900,
+          "sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notosansjp/OFL.txt",
+          "output_path": "licenses/fonts/notosansjp-OFL.txt",
+          "size": 4388,
+          "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notosansjp/METADATA.pb",
+          "output_path": "licenses/fonts/notosansjp-METADATA.pb",
+          "size": 983,
+          "sha256": "5aa23f70fba3eb1afa6d92cb89de3b5c4690018caddbdded678b5e595e56825b"
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif JP",
+      "slug": "notoserifjp",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notoserifjp/NotoSerifJP-Variable.ttf",
+          "style": "normal",
+          "weight": "200 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notoserifjp/NotoSerifJP[wght].ttf",
+          "output_path": "assets/fonts/files/notoserifjp/NotoSerifJP-Variable.ttf",
+          "size": 13574352,
+          "sha256": "2fd527ba12b6a44ec30d796d633360da0aeba6c5d4af1304ce12bb4dc15a7dfc"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notoserifjp/OFL.txt",
+          "output_path": "licenses/fonts/notoserifjp-OFL.txt",
+          "size": 4350,
+          "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notoserifjp/METADATA.pb",
+          "output_path": "licenses/fonts/notoserifjp-METADATA.pb",
+          "size": 1089,
+          "sha256": "265cb1cd38f7c12837feb5b26c59328ef7ff8f0b2b5683b1a47303c68d373622"
+        }
+      ]
+    },
+    {
+      "name": "Dela Gothic One",
+      "slug": "delagothicone",
+      "faces": [
+        {
+          "file": "assets/fonts/files/delagothicone/DelaGothicOne-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/delagothicone/DelaGothicOne-Regular.ttf",
+          "output_path": "assets/fonts/files/delagothicone/DelaGothicOne-Regular.ttf",
+          "size": 2508848,
+          "sha256": "4ff87a0965f1b0505e5a2c58424bc6ad3cff27e56a82f21c2fc9d6b0e3857ee2"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/delagothicone/OFL.txt",
+          "output_path": "licenses/fonts/delagothicone-OFL.txt",
+          "size": 4392,
+          "sha256": "c0014792d4f4abc0508c295b277f2b17ae44465c8dc88d12af9cea48279b5fda"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/delagothicone/METADATA.pb",
+          "output_path": "licenses/fonts/delagothicone-METADATA.pb",
+          "size": 1019,
+          "sha256": "d99bf2e9e9e76a8b44e659fbb80be21839902639a6e3bc25e5a5cf302d0c46e7"
+        }
+      ]
+    },
+    {
+      "name": "Zen Kaku Gothic New",
+      "slug": "zenkakugothicnew",
+      "faces": [
+        {
+          "file": "assets/fonts/files/zenkakugothicnew/ZenKakuGothicNew-Black.ttf",
+          "style": "normal",
+          "weight": "900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/zenkakugothicnew/ZenKakuGothicNew-Black.ttf",
+          "output_path": "assets/fonts/files/zenkakugothicnew/ZenKakuGothicNew-Black.ttf",
+          "size": 2300600,
+          "sha256": "795819a979184981842994d8f4eb9e14ce443d687bd5e731d6ca67ded8f92261"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/zenkakugothicnew/OFL.txt",
+          "output_path": "licenses/fonts/zenkakugothicnew-OFL.txt",
+          "size": 4401,
+          "sha256": "0fac78a235c98d640cb06332eb5362c211d86fa03c011df438c35005d22ad2c7"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/zenkakugothicnew/METADATA.pb",
+          "output_path": "licenses/fonts/zenkakugothicnew-METADATA.pb",
+          "size": 2631,
+          "sha256": "d1bd43c475dd673a67c210a6277fea8e61c4fcd29c546ac274791617da5c6473"
+        }
+      ]
+    },
+    {
+      "name": "Zen Old Mincho",
+      "slug": "zenoldmincho",
+      "faces": [
+        {
+          "file": "assets/fonts/files/zenoldmincho/ZenOldMincho-Black.ttf",
+          "style": "normal",
+          "weight": "900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/zenoldmincho/ZenOldMincho-Black.ttf",
+          "output_path": "assets/fonts/files/zenoldmincho/ZenOldMincho-Black.ttf",
+          "size": 5416348,
+          "sha256": "84a80d8bca79d7d9478935045b216ed003ad40fdea5fd9116d524eb26e872cdc"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/zenoldmincho/OFL.txt",
+          "output_path": "licenses/fonts/zenoldmincho-OFL.txt",
+          "size": 4399,
+          "sha256": "469d214f9842809659c827b7f2adaf40ec0df6efdd5fe18b7127665c32aafaec"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/zenoldmincho/METADATA.pb",
+          "output_path": "licenses/fonts/zenoldmincho-METADATA.pb",
+          "size": 2572,
+          "sha256": "ad95513b2a927e0674fac34e576d4421a2e3f209350a7f231db873164a19e231"
+        }
+      ]
+    },
+    {
+      "name": "Kaisei Tokumin",
+      "slug": "kaiseitokumin",
+      "faces": [
+        {
+          "file": "assets/fonts/files/kaiseitokumin/KaiseiTokumin-ExtraBold.ttf",
+          "style": "normal",
+          "weight": "800"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/kaiseitokumin/KaiseiTokumin-ExtraBold.ttf",
+          "output_path": "assets/fonts/files/kaiseitokumin/KaiseiTokumin-ExtraBold.ttf",
+          "size": 4564000,
+          "sha256": "bf44bb3e23cc703bfb19111833f78e651998d0a2b1863eff9e88cecb38a8bc53"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/kaiseitokumin/OFL.txt",
+          "output_path": "licenses/fonts/kaiseitokumin-OFL.txt",
+          "size": 4383,
+          "sha256": "6c5445d4febbf6d84025b874a85c51e7e4bfa7495279eccdb4c317a6de857b46"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/kaiseitokumin/METADATA.pb",
+          "output_path": "licenses/fonts/kaiseitokumin-METADATA.pb",
+          "size": 2135,
+          "sha256": "14fc96901706a7a188c89a54c1680b28028314766a00987c186d82265f009a0a"
+        }
+      ]
+    },
+    {
+      "name": "M PLUS Rounded 1c",
+      "slug": "mplusrounded1c",
+      "faces": [
+        {
+          "file": "assets/fonts/files/mplusrounded1c/MPLUSRounded1c-ExtraBold.ttf",
+          "style": "normal",
+          "weight": "800"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/mplusrounded1c/MPLUSRounded1c-ExtraBold.ttf",
+          "output_path": "assets/fonts/files/mplusrounded1c/MPLUSRounded1c-ExtraBold.ttf",
+          "size": 3628512,
+          "sha256": "8e7c15901dca87f1451b356dda594f7d092ba252a5dcc47da74523a242493c36"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/roundedmplus1c/OFL.txt",
+          "output_path": "licenses/fonts/mplusrounded1c-OFL.txt",
+          "size": 4397,
+          "sha256": "67f64c5509e5151796599e3ad47c3131cbe0c80c4f9430b90236a1249c2eacc9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/mplusrounded1c/METADATA.pb",
+          "output_path": "licenses/fonts/mplusrounded1c-METADATA.pb",
+          "size": 2253,
+          "sha256": "2d18325f7c495995984d2ad3158244a2896a4f80095fd71cfc08a3bfd750c732"
+        }
+      ]
+    },
+    {
+      "name": "Mochiy Pop One",
+      "slug": "mochiypopone",
+      "faces": [
+        {
+          "file": "assets/fonts/files/mochiypopone/MochiyPopOne-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/mochiypopone/MochiyPopOne-Regular.ttf",
+          "output_path": "assets/fonts/files/mochiypopone/MochiyPopOne-Regular.ttf",
+          "size": 5163948,
+          "sha256": "9e009430e1316c271a5f34759c6b65fc343c4e806f193042528887e7235a92c6"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/mochiypopone/OFL.txt",
+          "output_path": "licenses/fonts/mochiypopone-OFL.txt",
+          "size": 4387,
+          "sha256": "76be26178f13ef82866cf6a5c54272191bb583c203ad7035021c7681c9043558"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/mochiypopone/METADATA.pb",
+          "output_path": "licenses/fonts/mochiypopone-METADATA.pb",
+          "size": 931,
+          "sha256": "a73a4d99683c4636bb9536a134d134bd1de1a0a5d854794592ed5d72c1fac1c5"
+        }
+      ]
+    },
+    {
+      "name": "DotGothic16",
+      "slug": "dotgothic16",
+      "faces": [
+        {
+          "file": "assets/fonts/files/dotgothic16/DotGothic16-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/dotgothic16/DotGothic16-Regular.ttf",
+          "output_path": "assets/fonts/files/dotgothic16/DotGothic16-Regular.ttf",
+          "size": 2069236,
+          "sha256": "3ad9af88726d42b40f7f365f0dcac785af73cf20ea6f1d5b44e57cc21150b8f1"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/dotgothic16/OFL.txt",
+          "output_path": "licenses/fonts/dotgothic16-OFL.txt",
+          "size": 4492,
+          "sha256": "b6630c61ea078cacd7fabe37d14ffe557a0b45b06683374a9aa9e24262993e33"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/dotgothic16/METADATA.pb",
+          "output_path": "licenses/fonts/dotgothic16-METADATA.pb",
+          "size": 986,
+          "sha256": "ab13744709b98ba1196c45bc1bf9ba89e86df9620673e19ece14a8c6efe8c014"
+        }
+      ]
+    },
+    {
+      "name": "Yuji Syuku",
+      "slug": "yujisyuku",
+      "faces": [
+        {
+          "file": "assets/fonts/files/yujisyuku/YujiSyuku-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/yujisyuku/YujiSyuku-Regular.ttf",
+          "output_path": "assets/fonts/files/yujisyuku/YujiSyuku-Regular.ttf",
+          "size": 8430348,
+          "sha256": "82728ebafc8c97391e2dab633414a806f344b8e4e2227d307179f07b548fca61"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/yujisyuku/OFL.txt",
+          "output_path": "licenses/fonts/yujisyuku-OFL.txt",
+          "size": 4386,
+          "sha256": "ef7c85c72ae94381c8bc4832ae4e6fbabdeafa2bb8a31313cd75dce95a690256"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/yujisyuku/METADATA.pb",
+          "output_path": "licenses/fonts/yujisyuku-METADATA.pb",
+          "size": 915,
+          "sha256": "4af705c43a1f93d83f14aa3707b1e1a27d62cb7a8fad260e732fed1789cd7ce5"
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Mono",
+      "slug": "ibmplexmono",
+      "faces": [
+        {
+          "file": "assets/fonts/files/ibmplexmono/IBMPlexMono-Medium.ttf",
+          "style": "normal",
+          "weight": "500"
+        },
+        {
+          "file": "assets/fonts/files/ibmplexmono/IBMPlexMono-SemiBold.ttf",
+          "style": "normal",
+          "weight": "600"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/ibmplexmono/IBMPlexMono-Medium.ttf",
+          "output_path": "assets/fonts/files/ibmplexmono/IBMPlexMono-Medium.ttf",
+          "size": 136704,
+          "sha256": "a9b4c49bb299e05b5f6c481e7fb5e78943d2793249a0c8874ab574a2d1ea6755"
+        },
+        {
+          "kind": "font",
+          "source_path": "ofl/ibmplexmono/IBMPlexMono-SemiBold.ttf",
+          "output_path": "assets/fonts/files/ibmplexmono/IBMPlexMono-SemiBold.ttf",
+          "size": 140216,
+          "sha256": "d3c38e55c78f5b0f28009fddba4834ec503278936a5986032424c9bd2d23aa46"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/ibmplexmono/OFL.txt",
+          "output_path": "licenses/fonts/ibmplexmono-OFL.txt",
+          "size": 4456,
+          "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/ibmplexmono/METADATA.pb",
+          "output_path": "licenses/fonts/ibmplexmono-METADATA.pb",
+          "size": 6309,
+          "sha256": "2eb58f75e032cc5e021887aa7b02bf11bf548710fc5b6f23eb19c440df101a0b"
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Sans JP",
+      "slug": "ibmplexsansjp",
+      "faces": [
+        {
+          "file": "assets/fonts/files/ibmplexsansjp/IBMPlexSansJP-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        },
+        {
+          "file": "assets/fonts/files/ibmplexsansjp/IBMPlexSansJP-Medium.ttf",
+          "style": "normal",
+          "weight": "500"
+        },
+        {
+          "file": "assets/fonts/files/ibmplexsansjp/IBMPlexSansJP-Bold.ttf",
+          "style": "normal",
+          "weight": "700"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/ibmplexsansjp/IBMPlexSansJP-Regular.ttf",
+          "output_path": "assets/fonts/files/ibmplexsansjp/IBMPlexSansJP-Regular.ttf",
+          "size": 2396484,
+          "sha256": "372f8bba95f386856ae435dc0e69f08db1cac29bed513d99171a0ae2d307ba2a"
+        },
+        {
+          "kind": "font",
+          "source_path": "ofl/ibmplexsansjp/IBMPlexSansJP-Medium.ttf",
+          "output_path": "assets/fonts/files/ibmplexsansjp/IBMPlexSansJP-Medium.ttf",
+          "size": 2389060,
+          "sha256": "1d09f5e25b19e54b2c55da70de58f9962512c3e07ed7c3e1c9bad77ace5c22e6"
+        },
+        {
+          "kind": "font",
+          "source_path": "ofl/ibmplexsansjp/IBMPlexSansJP-Bold.ttf",
+          "output_path": "assets/fonts/files/ibmplexsansjp/IBMPlexSansJP-Bold.ttf",
+          "size": 2391376,
+          "sha256": "bd8a98b9b55c9ea3f0fa1ed094c15981788cc9a41b0357f4453014fd1d44da19"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/ibmplexsansjp/OFL.txt",
+          "output_path": "licenses/fonts/ibmplexsansjp-OFL.txt",
+          "size": 4456,
+          "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/ibmplexsansjp/METADATA.pb",
+          "output_path": "licenses/fonts/ibmplexsansjp-METADATA.pb",
+          "size": 3473,
+          "sha256": "41cc68cf778cfb02a5e06604bbd36b1b16fa4d65caf6c53c0bb4a92cfa29714d"
+        }
+      ]
+    },
+    {
+      "name": "Reggae One",
+      "slug": "reggaeone",
+      "faces": [
+        {
+          "file": "assets/fonts/files/reggaeone/ReggaeOne-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/reggaeone/ReggaeOne-Regular.ttf",
+          "output_path": "assets/fonts/files/reggaeone/ReggaeOne-Regular.ttf",
+          "size": 2153256,
+          "sha256": "aebe62598732d76036f30ec11bb0ec5f68938e373a06d1b4ceb6b9cf1abf3db2"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/reggaeone/OFL.txt",
+          "output_path": "licenses/fonts/reggaeone-OFL.txt",
+          "size": 4483,
+          "sha256": "2756c3dcd85ad997b742330f91332fb478afad302708d4149f7bcd4600543ce2"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/reggaeone/METADATA.pb",
+          "output_path": "licenses/fonts/reggaeone-METADATA.pb",
+          "size": 931,
+          "sha256": "f7595c35962976b5624ea927ed5fbe9dd4efa36e1cfb9e30a70832883a1148f5"
+        }
+      ]
+    },
+    {
+      "name": "Rampart One",
+      "slug": "rampartone",
+      "faces": [
+        {
+          "file": "assets/fonts/files/rampartone/RampartOne-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/rampartone/RampartOne-Regular.ttf",
+          "output_path": "assets/fonts/files/rampartone/RampartOne-Regular.ttf",
+          "size": 3722352,
+          "sha256": "a4c60ee835175fa147eb483fac0dd8ff9007c37884ef77af86b0a868fa554d49"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/rampartone/OFL.txt",
+          "output_path": "licenses/fonts/rampartone-OFL.txt",
+          "size": 4484,
+          "sha256": "1286896706738557c1fb98f0f66006d4ca675e475d681ca85976fd0da9daa353"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/rampartone/METADATA.pb",
+          "output_path": "licenses/fonts/rampartone-METADATA.pb",
+          "size": 967,
+          "sha256": "9b484b265ec31b04c19b115f2a2076e9eb1f099535a40a93b7f236580328d0f8"
+        }
+      ]
+    },
+    {
+      "name": "Potta One",
+      "slug": "pottaone",
+      "faces": [
+        {
+          "file": "assets/fonts/files/pottaone/PottaOne-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/pottaone/PottaOne-Regular.ttf",
+          "output_path": "assets/fonts/files/pottaone/PottaOne-Regular.ttf",
+          "size": 4918516,
+          "sha256": "bde843868b56e429e1c863da2efa76df533162b226d990efcb96d533b0ca2a93"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/pottaone/OFL.txt",
+          "output_path": "licenses/fonts/pottaone-OFL.txt",
+          "size": 4472,
+          "sha256": "fe55933bcfad354914050fe0e7c879bd666a623f1e363a651198ac40c271cd26"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/pottaone/METADATA.pb",
+          "output_path": "licenses/fonts/pottaone-METADATA.pb",
+          "size": 905,
+          "sha256": "6b0e73c41f527d7d1f509ab28211052ed39158dc0133a3c1f67c64f1b4020033"
+        }
+      ]
+    },
+    {
+      "name": "Kiwi Maru",
+      "slug": "kiwimaru",
+      "faces": [
+        {
+          "file": "assets/fonts/files/kiwimaru/KiwiMaru-Medium.ttf",
+          "style": "normal",
+          "weight": "500"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/kiwimaru/KiwiMaru-Medium.ttf",
+          "output_path": "assets/fonts/files/kiwimaru/KiwiMaru-Medium.ttf",
+          "size": 5123612,
+          "sha256": "b2659f300a7d48c3f29eb273ffc5e1b26cc416ac8c37ff6bb2f3e43c2f4d235a"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/kiwimaru/OFL.txt",
+          "output_path": "licenses/fonts/kiwimaru-OFL.txt",
+          "size": 4399,
+          "sha256": "07ceae7a6e3294cbbd0fdf6e35226550566a1cce9fd226d0f8a57f3d34c664fe"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/kiwimaru/METADATA.pb",
+          "output_path": "licenses/fonts/kiwimaru-METADATA.pb",
+          "size": 1662,
+          "sha256": "a219fb2dfd44148f5d2dce2e9648084caf6a42091606216309eb0a9a05fd584f"
+        }
+      ]
+    },
+    {
+      "name": "Klee One",
+      "slug": "kleeone",
+      "faces": [
+        {
+          "file": "assets/fonts/files/kleeone/KleeOne-SemiBold.ttf",
+          "style": "normal",
+          "weight": "600"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/kleeone/KleeOne-SemiBold.ttf",
+          "output_path": "assets/fonts/files/kleeone/KleeOne-SemiBold.ttf",
+          "size": 8905128,
+          "sha256": "b031ec426c23ca1143ef1f7d58bee7a79efe119ed654152f121c922202b303fd"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/kleeone/OFL.txt",
+          "output_path": "licenses/fonts/kleeone-OFL.txt",
+          "size": 4479,
+          "sha256": "e376b0df8e8a2345a9533db6f0a5333a1107975569ad9d1973a7ee557161ca38"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/kleeone/METADATA.pb",
+          "output_path": "licenses/fonts/kleeone-METADATA.pb",
+          "size": 1280,
+          "sha256": "0a6647abf921c7cc67249b3bdcbb5d9f1efc4979d1dc88a9e513340e79e08346"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho B1",
+      "slug": "shipporiminchob1",
+      "faces": [
+        {
+          "file": "assets/fonts/files/shipporiminchob1/ShipporiMinchoB1-ExtraBold.ttf",
+          "style": "normal",
+          "weight": "800"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/shipporiminchob1/ShipporiMinchoB1-ExtraBold.ttf",
+          "output_path": "assets/fonts/files/shipporiminchob1/ShipporiMinchoB1-ExtraBold.ttf",
+          "size": 15088060,
+          "sha256": "bee99a242f32128e8d6a4acff2b3f1742cd42ea90748758e6e10456871887e76"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/shipporiminchob1/OFL.txt",
+          "output_path": "licenses/fonts/shipporiminchob1-OFL.txt",
+          "size": 4399,
+          "sha256": "41fba056279be5f45ff9a99e44b7b53897b42732f5806d8e666e0ab49ac6bd38"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/shipporiminchob1/METADATA.pb",
+          "output_path": "licenses/fonts/shipporiminchob1-METADATA.pb",
+          "size": 2666,
+          "sha256": "d0b585e0600af0d161c5d062d9dff26fd0940eb5f958656ea6a6b4c7b338729a"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans TC",
+      "slug": "notosanstc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notosanstc/NotoSansTC-Variable.ttf",
+          "style": "normal",
+          "weight": "100 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notosanstc/NotoSansTC[wght].ttf",
+          "output_path": "assets/fonts/files/notosanstc/NotoSansTC-Variable.ttf",
+          "size": 11941968,
+          "sha256": "864727d210d54f2537bbe23b3a839436c3992af72de9322af5270897246bd44f"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notosanstc/OFL.txt",
+          "output_path": "licenses/fonts/notosanstc-OFL.txt",
+          "size": 4388,
+          "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notosanstc/METADATA.pb",
+          "output_path": "licenses/fonts/notosanstc-METADATA.pb",
+          "size": 1197,
+          "sha256": "774e7ec96abe511ec49a315dccc1579048a3879a8cf6d97f5e9c7b4e40836a66"
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif TC",
+      "slug": "notoseriftc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notoseriftc/NotoSerifTC-Variable.ttf",
+          "style": "normal",
+          "weight": "200 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notoseriftc/NotoSerifTC[wght].ttf",
+          "output_path": "assets/fonts/files/notoseriftc/NotoSerifTC-Variable.ttf",
+          "size": 16851596,
+          "sha256": "0077e18f57c6908f4a000969880940bdb0dad057c0e8d98b49dc364c3d1b09c6"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notoseriftc/OFL.txt",
+          "output_path": "licenses/fonts/notoseriftc-OFL.txt",
+          "size": 4350,
+          "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notoseriftc/METADATA.pb",
+          "output_path": "licenses/fonts/notoseriftc-METADATA.pb",
+          "size": 1275,
+          "sha256": "9916e1212c7806a90e67dd84d22e870d14346829645b25c0d60af76cc5497f90"
+        }
+      ]
+    },
+    {
+      "name": "WDXL Lubrifont TC",
+      "slug": "wdxllubrifonttc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/wdxllubrifonttc/WDXLLubrifontTC-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/wdxllubrifonttc/WDXLLubrifontTC-Regular.ttf",
+          "output_path": "assets/fonts/files/wdxllubrifonttc/WDXLLubrifontTC-Regular.ttf",
+          "size": 10345168,
+          "sha256": "acae31588d34ba66a51a6271209bdcbb6105962f0f77a74729e69e3938f96775"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/wdxllubrifonttc/OFL.txt",
+          "output_path": "licenses/fonts/wdxllubrifonttc-OFL.txt",
+          "size": 4521,
+          "sha256": "048eba87d28b5d74c432cfa38ca44737e86a5508cf912c1b2cc211c45944e1d9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/wdxllubrifonttc/METADATA.pb",
+          "output_path": "licenses/fonts/wdxllubrifonttc-METADATA.pb",
+          "size": 699,
+          "sha256": "c0811a922446539e0218cc88b90f930f775664b63a0ae782c1b08cd047ac7025"
+        }
+      ]
+    },
+    {
+      "name": "Chiron GoRound TC",
+      "slug": "chirongoroundtc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/chirongoroundtc/ChironGoRoundTC-Variable.ttf",
+          "style": "normal",
+          "weight": "200 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/chirongoroundtc/ChironGoRoundTC[wght].ttf",
+          "output_path": "assets/fonts/files/chirongoroundtc/ChironGoRoundTC-Variable.ttf",
+          "size": 51170304,
+          "sha256": "47cd5ff5153799d4c0d05bcc64da849e13b8eb842e46728a66bf2d52c480231f"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/chirongoroundtc/OFL.txt",
+          "output_path": "licenses/fonts/chirongoroundtc-OFL.txt",
+          "size": 4451,
+          "sha256": "7b9cc84fe1935d1418de4af57b4106038fb836b3a162e1b86507c7fc8543a759"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/chirongoroundtc/METADATA.pb",
+          "output_path": "licenses/fonts/chirongoroundtc-METADATA.pb",
+          "size": 886,
+          "sha256": "4b87fa4db6248dbb53a27d402823b6290777b3f498e2be996f805d30320f52b3"
+        }
+      ]
+    },
+    {
+      "name": "Huninn",
+      "slug": "huninn",
+      "faces": [
+        {
+          "file": "assets/fonts/files/huninn/Huninn-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/huninn/Huninn-Regular.ttf",
+          "output_path": "assets/fonts/files/huninn/Huninn-Regular.ttf",
+          "size": 4683972,
+          "sha256": "1bd770a5ffc0c06723b567686f8b5db5abf9ab54227f3bbc4e6fd648f4698805"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/huninn/OFL.txt",
+          "output_path": "licenses/fonts/huninn-OFL.txt",
+          "size": 4382,
+          "sha256": "d71824aeb09afc4c2cac01acab5c3db79796e927ba37be40d69fb62a412639b6"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/huninn/METADATA.pb",
+          "output_path": "licenses/fonts/huninn-METADATA.pb",
+          "size": 659,
+          "sha256": "8c79bd14cb554fb1b39d9e39fad6b01f952ae00f7b9534db04a6bde6810dd033"
+        }
+      ]
+    },
+    {
+      "name": "LXGW WenKai TC",
+      "slug": "lxgwwenkaitc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/lxgwwenkaitc/LXGWWenKaiTC-Bold.ttf",
+          "style": "normal",
+          "weight": "700"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/lxgwwenkaitc/LXGWWenKaiTC-Bold.ttf",
+          "output_path": "assets/fonts/files/lxgwwenkaitc/LXGWWenKaiTC-Bold.ttf",
+          "size": 12881104,
+          "sha256": "5c9feadfd928f3ae3860e7d001ad3d0d0c55b0157fff08cd4d51b51aca677f23"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/lxgwwenkaitc/OFL.txt",
+          "output_path": "licenses/fonts/lxgwwenkaitc-OFL.txt",
+          "size": 4390,
+          "sha256": "4fff27d35db0e22cd81d58da6f20e09f415cf354a3338e3cf1fc0eb9222c7174"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/lxgwwenkaitc/METADATA.pb",
+          "output_path": "licenses/fonts/lxgwwenkaitc-METADATA.pb",
+          "size": 1807,
+          "sha256": "3e96d9d52e31b7af4662c618b9d5284cdf14d7bee23dfd93952d044ac0ade180"
+        }
+      ]
+    },
+    {
+      "name": "LXGW Marker Gothic",
+      "slug": "lxgwmarkergothic",
+      "faces": [
+        {
+          "file": "assets/fonts/files/lxgwmarkergothic/LXGWMarkerGothic-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/lxgwmarkergothic/LXGWMarkerGothic-Regular.ttf",
+          "output_path": "assets/fonts/files/lxgwmarkergothic/LXGWMarkerGothic-Regular.ttf",
+          "size": 3187360,
+          "sha256": "e6a55cfd5f18dc393f92670a164397a69242cb4eabe1d3feb5dc22fc4947a8ba"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/lxgwmarkergothic/OFL.txt",
+          "output_path": "licenses/fonts/lxgwmarkergothic-OFL.txt",
+          "size": 4401,
+          "sha256": "58e494ff4a5177d593a97ffc482f4069f59f54a0d4049fd29e531d3b1009e8b4"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/lxgwmarkergothic/METADATA.pb",
+          "output_path": "licenses/fonts/lxgwmarkergothic-METADATA.pb",
+          "size": 963,
+          "sha256": "c4482e42db1d8ee59d554d500471d38a6a6eb00175695b70cd115882814b68c6"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SC",
+      "slug": "notosanssc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notosanssc/NotoSansSC-Variable.ttf",
+          "style": "normal",
+          "weight": "100 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notosanssc/NotoSansSC[wght].ttf",
+          "output_path": "assets/fonts/files/notosanssc/NotoSansSC-Variable.ttf",
+          "size": 17772300,
+          "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notosanssc/OFL.txt",
+          "output_path": "licenses/fonts/notosanssc-OFL.txt",
+          "size": 4388,
+          "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notosanssc/METADATA.pb",
+          "output_path": "licenses/fonts/notosanssc-METADATA.pb",
+          "size": 1296,
+          "sha256": "c6c4bdb785793b2de1da177caeeffcd0c90d7680bdab2de8f88ab45007bc59bc"
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif SC",
+      "slug": "notoserifsc",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notoserifsc/NotoSerifSC-Variable.ttf",
+          "style": "normal",
+          "weight": "200 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notoserifsc/NotoSerifSC[wght].ttf",
+          "output_path": "assets/fonts/files/notoserifsc/NotoSerifSC-Variable.ttf",
+          "size": 25125512,
+          "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notoserifsc/OFL.txt",
+          "output_path": "licenses/fonts/notoserifsc-OFL.txt",
+          "size": 4350,
+          "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notoserifsc/METADATA.pb",
+          "output_path": "licenses/fonts/notoserifsc-METADATA.pb",
+          "size": 1373,
+          "sha256": "e0c253c6f850fc3ef6e7fc398361133dd55acc408c931822a3f69cfac08554c2"
+        }
+      ]
+    },
+    {
+      "name": "ZCOOL QingKe HuangYou",
+      "slug": "zcoolqingkehuangyou",
+      "faces": [
+        {
+          "file": "assets/fonts/files/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+          "output_path": "assets/fonts/files/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+          "size": 8328684,
+          "sha256": "54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/zcoolqingkehuangyou/OFL.txt",
+          "output_path": "licenses/fonts/zcoolqingkehuangyou-OFL.txt",
+          "size": 4419,
+          "sha256": "f1bce31b817dee01c1e4ef8bc45d8ecb95f01f4abbf0a985007cb3cd0fd8123d"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/zcoolqingkehuangyou/METADATA.pb",
+          "output_path": "licenses/fonts/zcoolqingkehuangyou-METADATA.pb",
+          "size": 687,
+          "sha256": "254f65c558dd29fdabcec269174fb5d80fbd36350a8df729a85686163840f74f"
+        }
+      ]
+    },
+    {
+      "name": "ZCOOL KuaiLe",
+      "slug": "zcoolkuaile",
+      "faces": [
+        {
+          "file": "assets/fonts/files/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+          "output_path": "assets/fonts/files/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+          "size": 1514968,
+          "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/zcoolkuaile/OFL.txt",
+          "output_path": "licenses/fonts/zcoolkuaile-OFL.txt",
+          "size": 4398,
+          "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/zcoolkuaile/METADATA.pb",
+          "output_path": "licenses/fonts/zcoolkuaile-METADATA.pb",
+          "size": 671,
+          "sha256": "fc1f48f54521ac41b8aa59d5b44c6b3c7cb7d24b9d4d499564c9febd01f84769"
+        }
+      ]
+    },
+    {
+      "name": "ZCOOL XiaoWei",
+      "slug": "zcoolxiaowei",
+      "faces": [
+        {
+          "file": "assets/fonts/files/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+          "output_path": "assets/fonts/files/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+          "size": 6313808,
+          "sha256": "a42b620140f493db42f741351dfbf343c0936d58588ee8004b8b2a218d997ff1"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/zcoolxiaowei/OFL.txt",
+          "output_path": "licenses/fonts/zcoolxiaowei-OFL.txt",
+          "size": 4400,
+          "sha256": "a094514ca57cf8f9c5e8d8d1adab5d8cd3a377297ff016f9df2c05b3ecd77f0a"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/zcoolxiaowei/METADATA.pb",
+          "output_path": "licenses/fonts/zcoolxiaowei-METADATA.pb",
+          "size": 615,
+          "sha256": "aa1ced447d625faa508f81efc73d5f158e5fcecd59dbecb66a27bcb89947bdeb"
+        }
+      ]
+    },
+    {
+      "name": "Ma Shan Zheng",
+      "slug": "mashanzheng",
+      "faces": [
+        {
+          "file": "assets/fonts/files/mashanzheng/MaShanZheng-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/mashanzheng/MaShanZheng-Regular.ttf",
+          "output_path": "assets/fonts/files/mashanzheng/MaShanZheng-Regular.ttf",
+          "size": 5857936,
+          "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/mashanzheng/OFL.txt",
+          "output_path": "licenses/fonts/mashanzheng-OFL.txt",
+          "size": 4397,
+          "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/mashanzheng/METADATA.pb",
+          "output_path": "licenses/fonts/mashanzheng-METADATA.pb",
+          "size": 844,
+          "sha256": "7e21912b6659b58694f0b999e69ad5a95da12fdc453565059727a2467e525f84"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans KR",
+      "slug": "notosanskr",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notosanskr/NotoSansKR-Variable.ttf",
+          "style": "normal",
+          "weight": "100 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notosanskr/NotoSansKR[wght].ttf",
+          "output_path": "assets/fonts/files/notosanskr/NotoSansKR-Variable.ttf",
+          "size": 10414588,
+          "sha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notosanskr/OFL.txt",
+          "output_path": "licenses/fonts/notosanskr-OFL.txt",
+          "size": 4388,
+          "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notosanskr/METADATA.pb",
+          "output_path": "licenses/fonts/notosanskr-METADATA.pb",
+          "size": 767,
+          "sha256": "9b8b27c0dd1adbb0057d1fbe9534207ab3606114ace6755453d14668912471a1"
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif KR",
+      "slug": "notoserifkr",
+      "faces": [
+        {
+          "file": "assets/fonts/files/notoserifkr/NotoSerifKR-Variable.ttf",
+          "style": "normal",
+          "weight": "200 900"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/notoserifkr/NotoSerifKR[wght].ttf",
+          "output_path": "assets/fonts/files/notoserifkr/NotoSerifKR-Variable.ttf",
+          "size": 23795420,
+          "sha256": "11f8d5de6f1b79195efba3828aaa2ec95c1178f5ae976fb23c8d53250a9938f3"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/notoserifkr/OFL.txt",
+          "output_path": "licenses/fonts/notoserifkr-OFL.txt",
+          "size": 4350,
+          "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/notoserifkr/METADATA.pb",
+          "output_path": "licenses/fonts/notoserifkr-METADATA.pb",
+          "size": 873,
+          "sha256": "11a2445e02b744e88e8ed6fd5b807da7df4628fcc6526a15ea9b111ba0458bf4"
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Sans KR",
+      "slug": "ibmplexsanskr",
+      "faces": [
+        {
+          "file": "assets/fonts/files/ibmplexsanskr/IBMPlexSansKR-Medium.ttf",
+          "style": "normal",
+          "weight": "500"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/ibmplexsanskr/IBMPlexSansKR-Medium.ttf",
+          "output_path": "assets/fonts/files/ibmplexsanskr/IBMPlexSansKR-Medium.ttf",
+          "size": 2866736,
+          "sha256": "4a7130f56ce50bf10f9d383f624e50bad2c80bebc63e51f4269ece2c7d919166"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/ibmplexsanskr/OFL.txt",
+          "output_path": "licenses/fonts/ibmplexsanskr-OFL.txt",
+          "size": 4456,
+          "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/ibmplexsanskr/METADATA.pb",
+          "output_path": "licenses/fonts/ibmplexsanskr-METADATA.pb",
+          "size": 3451,
+          "sha256": "424565c06562f8fecab4cc94a4260d34d6895efbc1d7cad00bdaf9ddea066e79"
+        }
+      ]
+    },
+    {
+      "name": "Black Han Sans",
+      "slug": "blackhansans",
+      "faces": [
+        {
+          "file": "assets/fonts/files/blackhansans/BlackHanSans-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/blackhansans/BlackHanSans-Regular.ttf",
+          "output_path": "assets/fonts/files/blackhansans/BlackHanSans-Regular.ttf",
+          "size": 998424,
+          "sha256": "31960809284026681774a8e52dc19ebcad26cf69b0ad9d560f288296fbb52739"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/blackhansans/OFL.txt",
+          "output_path": "licenses/fonts/blackhansans-OFL.txt",
+          "size": 4399,
+          "sha256": "c324192c8b3a988bae45a9a7e4ac1258b684739003bda114e0523423440457c9"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/blackhansans/METADATA.pb",
+          "output_path": "licenses/fonts/blackhansans-METADATA.pb",
+          "size": 655,
+          "sha256": "be9f5a5233538e4cb590db06639cdc9875c4cf848ea231b20bd5d98f5eff084e"
+        }
+      ]
+    },
+    {
+      "name": "Jua",
+      "slug": "jua",
+      "faces": [
+        {
+          "file": "assets/fonts/files/jua/Jua-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/jua/Jua-Regular.ttf",
+          "output_path": "assets/fonts/files/jua/Jua-Regular.ttf",
+          "size": 2119352,
+          "sha256": "769677aef240bfc3b9965f2b50748075bff885e6c6992fc591a3fb268279f898"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/jua/OFL.txt",
+          "output_path": "licenses/fonts/jua-OFL.txt",
+          "size": 4342,
+          "sha256": "44a7c6e4c5572392ae122d3b1d8c6ba6fd640a7797e675384585d947f2773e3c"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/jua/METADATA.pb",
+          "output_path": "licenses/fonts/jua-METADATA.pb",
+          "size": 549,
+          "sha256": "c6b70d2a511edacbfb1f216140d2b46e7375118b60113c82af492f489bbf7d67"
+        }
+      ]
+    },
+    {
+      "name": "Do Hyeon",
+      "slug": "dohyeon",
+      "faces": [
+        {
+          "file": "assets/fonts/files/dohyeon/DoHyeon-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/dohyeon/DoHyeon-Regular.ttf",
+          "output_path": "assets/fonts/files/dohyeon/DoHyeon-Regular.ttf",
+          "size": 879764,
+          "sha256": "35644be7f28e0a68a447b1f7af351dcde5674b870f24f7b5f43e26d00b4ab653"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/dohyeon/OFL.txt",
+          "output_path": "licenses/fonts/dohyeon-OFL.txt",
+          "size": 4347,
+          "sha256": "de5ff32211a4340b01477af39ee339d639438955e409f79b666d4b9207f3c92c"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/dohyeon/METADATA.pb",
+          "output_path": "licenses/fonts/dohyeon-METADATA.pb",
+          "size": 575,
+          "sha256": "8ab86d61289efe626aab97f2b7b6241aa1609e626c2154a7ec6e21e8c0cc2421"
+        }
+      ]
+    },
+    {
+      "name": "Gowun Dodum",
+      "slug": "gowundodum",
+      "faces": [
+        {
+          "file": "assets/fonts/files/gowundodum/GowunDodum-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/gowundodum/GowunDodum-Regular.ttf",
+          "output_path": "assets/fonts/files/gowundodum/GowunDodum-Regular.ttf",
+          "size": 7229088,
+          "sha256": "a6e457933227483a11758fd0947bc74422a106d46f0bf057fdaa5af94a30067d"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/gowundodum/OFL.txt",
+          "output_path": "licenses/fonts/gowundodum-OFL.txt",
+          "size": 4395,
+          "sha256": "a7c73f9521cd646bbdfb6684c99a62311bbd7bce11898dc11ef0b3c69eda1aca"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/gowundodum/METADATA.pb",
+          "output_path": "licenses/fonts/gowundodum-METADATA.pb",
+          "size": 920,
+          "sha256": "030c76da312a2b23eb97d1a65a05a06bc13ca1a7936f26ff4b2c4fa06b39cf2d"
+        }
+      ]
+    },
+    {
+      "name": "Gowun Batang",
+      "slug": "gowunbatang",
+      "faces": [
+        {
+          "file": "assets/fonts/files/gowunbatang/GowunBatang-Bold.ttf",
+          "style": "normal",
+          "weight": "700"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/gowunbatang/GowunBatang-Bold.ttf",
+          "output_path": "assets/fonts/files/gowunbatang/GowunBatang-Bold.ttf",
+          "size": 8178712,
+          "sha256": "dbfcaa646e5831e7478524924f02906f550285a5050699b4e38c9950b3ec4b94"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/gowunbatang/OFL.txt",
+          "output_path": "licenses/fonts/gowunbatang-OFL.txt",
+          "size": 4397,
+          "sha256": "49a57cc769fa9affd6eefb9070a61e3d3f6b757c97cafb15848bc6d1c81acc78"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/gowunbatang/METADATA.pb",
+          "output_path": "licenses/fonts/gowunbatang-METADATA.pb",
+          "size": 1307,
+          "sha256": "5ab6c5630b85b7d20e8cec7a3be246f9cd5a8f247dea4993f6fb9cf1cc24478e"
+        }
+      ]
+    },
+    {
+      "name": "Nanum Brush Script",
+      "slug": "nanumbrushscript",
+      "faces": [
+        {
+          "file": "assets/fonts/files/nanumbrushscript/NanumBrushScript-Regular.ttf",
+          "style": "normal",
+          "weight": "400"
+        }
+      ],
+      "files": [
+        {
+          "kind": "font",
+          "source_path": "ofl/nanumbrushscript/NanumBrushScript-Regular.ttf",
+          "output_path": "assets/fonts/files/nanumbrushscript/NanumBrushScript-Regular.ttf",
+          "size": 3564804,
+          "sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31"
+        },
+        {
+          "kind": "license",
+          "source_path": "ofl/nanumbrushscript/OFL.txt",
+          "output_path": "licenses/fonts/nanumbrushscript-OFL.txt",
+          "size": 4534,
+          "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+        },
+        {
+          "kind": "metadata",
+          "source_path": "ofl/nanumbrushscript/METADATA.pb",
+          "output_path": "licenses/fonts/nanumbrushscript-METADATA.pb",
+          "size": 634,
+          "sha256": "9fc7c149b38d16733f08ffbb7aa4e4f037e6637c68f9e6f71b8c3a4b0db88c4d"
+        }
+      ]
+    }
+  ]
+}

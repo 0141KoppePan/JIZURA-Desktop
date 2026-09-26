@@ -1,0 +1,2 @@
+# Keep source, patches, and locked manifests identical on Windows and CI.
+* text=auto eol=lf
